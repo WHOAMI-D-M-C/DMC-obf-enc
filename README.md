@@ -1,5 +1,5 @@
 # DMC  OBFUCATED COMMAND FREE FOR ALL TEST IF IT WORK FOR YOU😈
-😈DON'T FORGET TO GIVE STARS😈
+😈DON'T FORGET TO GIVE STAR😈
 
 
 ![Logo](https://firebasestorage.googleapis.com/v0/b/testing-766a5.appspot.com/o/storage%2Fdata%2FAXRecorder_Edited_09092023_121811.jpg?alt=media&token=c6990fd7-dec4-4417-b027-a56e82b302b5)
@@ -32,7 +32,7 @@ Install my-project with npm
 
 pip install beautifulsoup4
 
-rm -rf DMC-FILE-CLONE
+rm -rf DMC-obf-enc
 
 git clone https://github.com/DEVIL-MAY-CRY-444/DMC-obf-enc
 
